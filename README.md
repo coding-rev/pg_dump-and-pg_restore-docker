@@ -18,11 +18,11 @@ Tip: To verify dump use `pg_restore -l your_database.dump`
 
 
 Credits
-- Emmanuel Owusu (coding-rev)
-* Software/Backend/Full-stack Engineer
+### Emmanuel Owusu (coding-rev)
+- Software/Backend/Full-stack Engineer
 
-- Bernard Owusu-Appiah (bernard-oa)
-* Snr Software Engineer
+### Bernard Owusu-Appiah (bernard-oa)
+- Snr Software Engineer
 
 
 Working | Django | Python | Codingrev | Software Engineer
